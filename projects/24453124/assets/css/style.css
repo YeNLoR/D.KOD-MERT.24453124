@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  color: red;
+}
+
+li {
+  color: white;
+}
+
+#name {
+  text-decoration: underline;
+}
+
+.background-blue {
+  background-color: blue;
+}
+
+.background-red {
+  background-color: red;
+}
+
+.background-brown {
+  background-color: brown;
+}
+
+.background-green {
+  background-color: green;
+}
+
+.text-green {
+  color: green;
+}
+
+.text-red {
+  color: red;
+}
+
